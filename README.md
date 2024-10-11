@@ -1,1 +1,1 @@
-# llama3.2-gcp
+# llm-transalation-langchain-chainlit

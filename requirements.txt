@@ -1,0 +1,11 @@
+langchain
+uvicorn
+openai
+langchain-openai
+langchain-community 
+langchainhub 
+bs4
+langchain_google_vertexai
+unstructured
+chainlit
+python-docx
